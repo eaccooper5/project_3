@@ -1,0 +1,223 @@
+Country Group,Country,ISO,indicator code,Subject Descriptor,Units,Scale,2019,2020,2021,2022,FY,latitude,longitude
+Emerging Africa ,Kenya,KEN,PCPIPCH,"Inflation, average consumer prices",Percent change,,5,5,6,8,2022.0,-0.023559,37.906193
+Emerging Africa ,Kenya,KEN,NGDPPC,"Gross domestic product per capita, current prices",National currency,Units,215078,219563,241778,263988,2019.0,-0.023559,37.906193
+Emerging Africa ,Kenya,KEN,NGDPDPC,"Gross domestic product per capita, current prices",U.S. dollars,Units,2108,2068,2209,2245,2019.0,-0.023559,37.906193
+Emerging Africa ,Kenya,KEN,PPPEX,Implied PPP conversion rate,National currency per current international dollar,,42,43,43,43,2022.0,-0.023559,37.906193
+Emerging Africa ,Kenya,KEN,NID_NGDP,Total investment,Percent of GDP,,19,20,20,19,2022.0,-0.023559,37.906193
+Emerging Africa ,Kenya,KEN,LP,Population,Persons,Millions,48,49,50,51,2019.0,-0.023559,37.906193
+Emerging Africa ,Mozambique,MOZ,PCPIPCH,"Inflation, average consumer prices",Percent change,,3,3,6,10,2022.0,-18.665695,35.529562
+Emerging Africa ,Mozambique,MOZ,NGDPPC,"Gross domestic product per capita, current prices",National currency,Units,31785,31541,32831,37100,2015.0,-18.665695,35.529562
+Emerging Africa ,Mozambique,MOZ,NGDPDPC,"Gross domestic product per capita, current prices",U.S. dollars,Units,508,454,502,581,2015.0,-18.665695,35.529562
+Emerging Africa ,Mozambique,MOZ,PPPEX,Implied PPP conversion rate,National currency per current international dollar,,24,24,24,25,2022.0,-18.665695,35.529562
+Emerging Africa ,Mozambique,MOZ,NID_NGDP,Total investment,Percent of GDP,,60,51,34,51,2022.0,-18.665695,35.529562
+Emerging Africa ,Mozambique,MOZ,LP,Population,Persons,Millions,30,31,32,33,2015.0,-18.665695,35.529562
+Emerging Africa ,Uganda,UGA,PCPIPCH,"Inflation, average consumer prices",Percent change,,2,3,2,7,2022.0,1.373333,32.290275
+Emerging Africa ,Uganda,UGA,NGDPPC,"Gross domestic product per capita, current prices",National currency,Units,3517582,3427692,3605267,4070271,2021.0,1.373333,32.290275
+Emerging Africa ,Uganda,UGA,NGDPDPC,"Gross domestic product per capita, current prices",U.S. dollars,Units,952,920,1005,1103,2021.0,1.373333,32.290275
+Emerging Africa ,Uganda,UGA,PPPEX,Implied PPP conversion rate,National currency per current international dollar,,1318,1328,1302,1330,2022.0,1.373333,32.290275
+Emerging Africa ,Uganda,UGA,NID_NGDP,Total investment,Percent of GDP,,26,28,27,27,2022.0,1.373333,32.290275
+Emerging Africa ,Uganda,UGA,LP,Population,Persons,Millions,40,41,42,44,2021.0,1.373333,32.290275
+Emerging Africa ,Angola,AGO,NGDPPC,"Gross domestic product per capita, current prices",National currency,Units,953015,988408,1370007,1589900,2021.0,-11.202692,17.873887
+Emerging Africa ,Angola,AGO,NGDPDPC,"Gross domestic product per capita, current prices",U.S. dollars,Units,2612,1709,2170,3438,2021.0,-11.202692,17.873887
+Emerging Africa ,Angola,AGO,PPPEX,Implied PPP conversion rate,National currency per current international dollar,,139,155,210,229,2022.0,-11.202692,17.873887
+Emerging Africa ,Angola,AGO,NID_NGDP,Total investment,Percent of GDP,,21,25,25,24,2022.0,-11.202692,17.873887
+Emerging Africa ,Angola,AGO,PCPIPCH,"Inflation, average consumer prices",Percent change,,17,22,26,21,2022.0,-11.202692,17.873887
+Emerging Africa ,Angola,AGO,LP,Population,Persons,Millions,32,33,35,36,2021.0,-11.202692,17.873887
+Emerging Africa ,Benin,BEN,NGDPPC,"Gross domestic product per capita, current prices",National currency,Units,686082,712546,753980,811252,2021.0,9.30769,2.315834
+Emerging Africa ,Benin,BEN,NGDPDPC,"Gross domestic product per capita, current prices",U.S. dollars,Units,1171,1240,1360,1303,2021.0,9.30769,2.315834
+Emerging Africa ,Benin,BEN,PPPEX,Implied PPP conversion rate,National currency per current international dollar,,209,212,206,200,2022.0,9.30769,2.315834
+Emerging Africa ,Benin,BEN,NID_NGDP,Total investment,Percent of GDP,,26,26,29,37,2022.0,9.30769,2.315834
+Emerging Africa ,Benin,BEN,PCPIPCH,"Inflation, average consumer prices",Percent change,,-1,3,2,1,2022.0,9.30769,2.315834
+Emerging Africa ,Benin,BEN,LP,Population,Persons,Millions,12,13,13,13,2021.0,9.30769,2.315834
+Emerging Africa ,Botswana,BWA,NGDPPC,"Gross domestic product per capita, current prices",National currency,Units,71840,67170,80258,95706,2020.0,-22.328474,24.684866
+Emerging Africa ,Botswana,BWA,NGDPDPC,"Gross domestic product per capita, current prices",U.S. dollars,Units,6679,5863,7239,7738,2020.0,-22.328474,24.684866
+Emerging Africa ,Botswana,BWA,PPPEX,Implied PPP conversion rate,National currency per current international dollar,,5,5,5,5,2021.0,-22.328474,24.684866
+Emerging Africa ,Botswana,BWA,NID_NGDP,Total investment,Percent of GDP,,31,33,27,25,2021.0,-22.328474,24.684866
+Emerging Africa ,Botswana,BWA,PCPIPCH,"Inflation, average consumer prices",Percent change,,3,2,7,12,2022.0,-22.328474,24.684866
+Emerging Africa ,Botswana,BWA,LP,Population,Persons,Millions,3,3,3,3,2020.0,-22.328474,24.684866
+Emerging Africa ,Burkina Faso,BFA,NGDPPC,"Gross domestic product per capita, current prices",National currency,Units,452437,479221,494260,517643,2020.0,12.238333,-1.561593
+Emerging Africa ,Burkina Faso,BFA,NGDPDPC,"Gross domestic product per capita, current prices",U.S. dollars,Units,772,834,892,832,2020.0,12.238333,-1.561593
+Emerging Africa ,Burkina Faso,BFA,PPPEX,Implied PPP conversion rate,National currency per current international dollar,,205,216,205,203,2021.0,12.238333,-1.561593
+Emerging Africa ,Burkina Faso,BFA,NID_NGDP,Total investment,Percent of GDP,,26,23,25,15,2021.0,12.238333,-1.561593
+Emerging Africa ,Burkina Faso,BFA,PCPIPCH,"Inflation, average consumer prices",Percent change,,-3,2,4,14,2022.0,12.238333,-1.561593
+Emerging Africa ,Burkina Faso,BFA,LP,Population,Persons,Millions,21,22,22,23,2020.0,12.238333,-1.561593
+Emerging Africa ,Burundi,BDI,NGDPPC,"Gross domestic product per capita, current prices",National currency,Units,482223,497734,540649,632611,2021.0,-3.373056,29.918886
+Emerging Africa ,Burundi,BDI,NGDPDPC,"Gross domestic product per capita, current prices",U.S. dollars,Units,261,260,274,311,2021.0,-3.373056,29.918886
+Emerging Africa ,Burundi,BDI,PPPEX,Implied PPP conversion rate,National currency per current international dollar,,615,644,668,739,2022.0,-3.373056,29.918886
+Emerging Africa ,Burundi,BDI,NID_NGDP,Total investment,Percent of GDP,,19,20,22,23,2022.0,-3.373056,29.918886
+Emerging Africa ,Burundi,BDI,PCPIPCH,"Inflation, average consumer prices",Percent change,,-1,7,8,19,2022.0,-3.373056,29.918886
+Emerging Africa ,Burundi,BDI,LP,Population,Persons,Millions,12,12,12,13,2021.0,-3.373056,29.918886
+Emerging Africa ,Cameroon,CMR,NGDPPC,"Gross domestic product per capita, current prices",National currency,Units,898258,884751,924093,988378,2022.0,7.369722,12.354722
+Emerging Africa ,Cameroon,CMR,NGDPDPC,"Gross domestic product per capita, current prices",U.S. dollars,Units,1533,1539,1667,1588,2022.0,7.369722,12.354722
+Emerging Africa ,Cameroon,CMR,PPPEX,Implied PPP conversion rate,National currency per current international dollar,,230,228,226,223,2022.0,7.369722,12.354722
+Emerging Africa ,Cameroon,CMR,NID_NGDP,Total investment,Percent of GDP,,19,18,18,18,2022.0,7.369722,12.354722
+Emerging Africa ,Cameroon,CMR,PCPIPCH,"Inflation, average consumer prices",Percent change,,2,2,2,6,2022.0,7.369722,12.354722
+Emerging Africa ,Cameroon,CMR,LP,Population,Persons,Millions,26,27,27,28,2022.0,7.369722,12.354722
+Emerging Africa ,Central African Republic,CAF,NGDPPC,"Gross domestic product per capita, current prices",National currency,Units,281310,284210,291067,305572,2021.0,6.611111,20.939444
+Emerging Africa ,Central African Republic,CAF,NGDPDPC,"Gross domestic product per capita, current prices",U.S. dollars,Units,480,494,525,491,2021.0,6.611111,20.939444
+Emerging Africa ,Central African Republic,CAF,PPPEX,Implied PPP conversion rate,National currency per current international dollar,,286,287,284,283,2021.0,6.611111,20.939444
+Emerging Africa ,Central African Republic,CAF,NID_NGDP,Total investment,Percent of GDP,,15,19,16,15,2021.0,6.611111,20.939444
+Emerging Africa ,Central African Republic,CAF,PCPIPCH,"Inflation, average consumer prices",Percent change,,3,1,4,6,2022.0,6.611111,20.939444
+Emerging Africa ,Central African Republic,CAF,LP,Population,Persons,Millions,5,5,5,5,2022.0,6.611111,20.939444
+Emerging Africa ,Chad,TCD,NGDPPC,"Gross domestic product per capita, current prices",National currency,Units,403867,376396,386326,432331,2019.0,15.454166,18.732207
+Emerging Africa ,Chad,TCD,NGDPDPC,"Gross domestic product per capita, current prices",U.S. dollars,Units,689,655,697,695,2019.0,15.454166,18.732207
+Emerging Africa ,Chad,TCD,PPPEX,Implied PPP conversion rate,National currency per current international dollar,,243,235,241,251,2021.0,15.454166,18.732207
+Emerging Africa ,Chad,TCD,NID_NGDP,Total investment,Percent of GDP,,23,23,22,19,2021.0,15.454166,18.732207
+Emerging Africa ,Chad,TCD,PCPIPCH,"Inflation, average consumer prices",Percent change,,-1,4,-1,6,2021.0,15.454166,18.732207
+Emerging Africa ,Chad,TCD,LP,Population,Persons,Millions,16,16,17,17,2019.0,15.454166,18.732207
+Emerging Africa ,Comoros,COM,NGDPPC,"Gross domestic product per capita, current prices",National currency,Units,597494,585082,579884,604226,2021.0,-11.875001,43.872219
+Emerging Africa ,Comoros,COM,NGDPDPC,"Gross domestic product per capita, current prices",U.S. dollars,Units,1360,1357,1395,1294,2021.0,-11.875001,43.872219
+Emerging Africa ,Comoros,COM,PPPEX,Implied PPP conversion rate,National currency per current international dollar,,192,191,183,180,2021.0,-11.875001,43.872219
+Emerging Africa ,Comoros,COM,NID_NGDP,Total investment,Percent of GDP,,16,18,17,12,2021.0,-11.875001,43.872219
+Emerging Africa ,Comoros,COM,PCPIPCH,"Inflation, average consumer prices",Percent change,,4,1,0,12,2021.0,-11.875001,43.872219
+Emerging Africa ,Comoros,COM,LP,Population,Persons,Millions,1,1,1,1,2021.0,-11.875001,43.872219
+Emerging Africa ,Ghana,GHA,LP,Population,Persons,Millions,30,31,31,32,2022.0,7.946527,-1.023194
+Emerging Africa ,Ghana,GHA,NGDPPC,"Gross domestic product per capita, current prices",National currency,Units,11819,12734,14706,19021,2022.0,7.946527,-1.023194
+Emerging Africa ,Ghana,GHA,NGDPDPC,"Gross domestic product per capita, current prices",U.S. dollars,Units,2266,2275,2535,2252,2022.0,7.946527,-1.023194
+Emerging Africa ,Ghana,GHA,PPPEX,Implied PPP conversion rate,National currency per current international dollar,,2,2,2,3,2022.0,7.946527,-1.023194
+Emerging Africa ,Ghana,GHA,NID_NGDP,Total investment,Percent of GDP,,19,18,17,16,2022.0,7.946527,-1.023194
+Emerging Africa ,Ghana,GHA,PCPIPCH,"Inflation, average consumer prices",Percent change,,7,10,10,32,2022.0,7.946527,-1.023194
+Emerging Africa ,Equatorial Guinea,GNQ,NGDPPC,"Gross domestic product per capita, current prices",National currency,Units,4895487,4049508,4684652,4898941,2015.0,1.650801,10.267895
+Emerging Africa ,Equatorial Guinea,GNQ,NGDPDPC,"Gross domestic product per capita, current prices",U.S. dollars,Units,8355,7035,8448,7854,2015.0,1.650801,10.267895
+Emerging Africa ,Equatorial Guinea,GNQ,PPPEX,Implied PPP conversion rate,National currency per current international dollar,,253,225,258,252,2021.0,1.650801,10.267895
+Emerging Africa ,Equatorial Guinea,GNQ,NID_NGDP,Total investment,Percent of GDP,,11,5,5,14,2021.0,1.650801,10.267895
+Emerging Africa ,Equatorial Guinea,GNQ,PCPIPCH,"Inflation, average consumer prices",Percent change,,1,5,0,5,2022.0,1.650801,10.267895
+Emerging Africa ,Equatorial Guinea,GNQ,LP,Population,Persons,Millions,1,1,1,1,2015.0,1.650801,10.267895
+Emerging Africa ,Gabon,GAB,LP,Population,Persons,Millions,2,2,2,2,2015.0,-0.803689,11.609444
+Emerging Africa ,Gabon,GAB,NGDPPC,"Gross domestic product per capita, current prices",National currency,Units,4737785,4182088,5252031,6081643,2015.0,-0.803689,11.609444
+Emerging Africa ,Gabon,GAB,NGDPDPC,"Gross domestic product per capita, current prices",U.S. dollars,Units,8087,7276,9476,9771,2015.0,-0.803689,11.609444
+Emerging Africa ,Gabon,GAB,PPPEX,Implied PPP conversion rate,National currency per current international dollar,,291,262,314,334,2021.0,-0.803689,11.609444
+Emerging Africa ,Gabon,GAB,NID_NGDP,Total investment,Percent of GDP,,32,30,32,31,2021.0,-0.803689,11.609444
+Emerging Africa ,Gabon,GAB,PCPIPCH,"Inflation, average consumer prices",Percent change,,2,2,1,4,2022.0,-0.803689,11.609444
+Emerging Africa ,Eritrea,ERI,NGDPPC,"Gross domestic product per capita, current prices",National currency,Units,8543,0,0,0,2006.0,15.179384,39.782334
+Emerging Africa ,Eritrea,ERI,NGDPDPC,"Gross domestic product per capita, current prices",U.S. dollars,Units,567,0,0,0,2006.0,15.179384,39.782334
+Emerging Africa ,Eritrea,ERI,PPPEX,Implied PPP conversion rate,National currency per current international dollar,,5,0,0,0,2019.0,15.179384,39.782334
+Emerging Africa ,Eritrea,ERI,NID_NGDP,Total investment,Percent of GDP,,5,0,0,0,2019.0,15.179384,39.782334
+Emerging Africa ,Eritrea,ERI,PCPIPCH,"Inflation, average consumer prices",Percent change,,1,0,0,0,2019.0,15.179384,39.782334
+Emerging Africa ,Eritrea,ERI,LP,Population,Persons,Millions,3,0,0,0,2006.0,15.179384,39.782334
+Emerging Africa ,Guinea,GIN,NGDPPC,"Gross domestic product per capita, current prices",National currency,Units,9059989,9648202,10802679,12029446,2014.0,9.945587,-9.696645
+Emerging Africa ,Guinea,GIN,NGDPDPC,"Gross domestic product per capita, current prices",U.S. dollars,Units,987,1009,1106,1384,2014.0,9.945587,-9.696645
+Emerging Africa ,Guinea,GIN,PPPEX,Implied PPP conversion rate,National currency per current international dollar,,3614,3719,3888,3977,2021.0,9.945587,-9.696645
+Emerging Africa ,Guinea,GIN,NID_NGDP,Total investment,Percent of GDP,,17,17,18,17,2021.0,9.945587,-9.696645
+Emerging Africa ,Guinea,GIN,PCPIPCH,"Inflation, average consumer prices",Percent change,,9,11,13,11,2022.0,9.945587,-9.696645
+Emerging Africa ,Guinea,GIN,LP,Population,Persons,Millions,14,14,14,15,2014.0,9.945587,-9.696645
+Emerging Africa ,Ethiopia,ETH,NGDPPC,"Gross domestic product per capita, current prices",National currency,Units,27569,33845,42604,59160,2022.0,9.145,40.489673
+Emerging Africa ,Ethiopia,ETH,NGDPDPC,"Gross domestic product per capita, current prices",U.S. dollars,Units,949,969,974,1156,2022.0,9.145,40.489673
+Emerging Africa ,Ethiopia,ETH,PPPEX,Implied PPP conversion rate,National currency per current international dollar,,10,12,14,17,2022.0,9.145,40.489673
+Emerging Africa ,Ethiopia,ETH,NID_NGDP,Total investment,Percent of GDP,,35,31,28,25,2022.0,9.145,40.489673
+Emerging Africa ,Ethiopia,ETH,PCPIPCH,"Inflation, average consumer prices",Percent change,,16,20,27,34,2022.0,9.145,40.489673
+Emerging Africa ,Ethiopia,ETH,LP,Population,Persons,Millions,98,100,102,104,2022.0,9.145,40.489673
+Emerging Africa ,Guinea-Bissau,GNB,NGDPPC,"Gross domestic product per capita, current prices",National currency,Units,490360,482131,515497,563824,2017.0,11.803749,-15.180413
+Emerging Africa ,Guinea-Bissau,GNB,NGDPDPC,"Gross domestic product per capita, current prices",U.S. dollars,Units,837,839,930,906,2017.0,11.803749,-15.180413
+Emerging Africa ,Guinea-Bissau,GNB,PPPEX,Implied PPP conversion rate,National currency per current international dollar,,201,197,193,194,2021.0,11.803749,-15.180413
+Emerging Africa ,Guinea-Bissau,GNB,NID_NGDP,Total investment,Percent of GDP,,16,18,18,18,2021.0,11.803749,-15.180413
+Emerging Africa ,Guinea-Bissau,GNB,PCPIPCH,"Inflation, average consumer prices",Percent change,,0,1,3,8,2022.0,11.803749,-15.180413
+Emerging Africa ,Guinea-Bissau,GNB,LP,Population,Persons,Millions,2,2,2,2,2017.0,11.803749,-15.180413
+Emerging Africa ,Madagascar,MDG,LP,Population,Persons,Millions,27,27,28,29,2018.0,-18.766947,46.869107
+Emerging Africa ,Madagascar,MDG,NGDPPC,"Gross domestic product per capita, current prices",National currency,Units,1924042,1808180,1978295,2142615,2018.0,-18.766947,46.869107
+Emerging Africa ,Madagascar,MDG,NGDPDPC,"Gross domestic product per capita, current prices",U.S. dollars,Units,532,477,517,523,2018.0,-18.766947,46.869107
+Emerging Africa ,Madagascar,MDG,PPPEX,Implied PPP conversion rate,National currency per current international dollar,,1122,1155,1179,1179,2022.0,-18.766947,46.869107
+Emerging Africa ,Madagascar,MDG,NID_NGDP,Total investment,Percent of GDP,,23,18,15,21,2022.0,-18.766947,46.869107
+Emerging Africa ,Madagascar,MDG,PCPIPCH,"Inflation, average consumer prices",Percent change,,6,4,6,8,2022.0,-18.766947,46.869107
+Emerging Africa ,Mali,MLI,NGDPDPC,"Gross domestic product per capita, current prices",U.S. dollars,Units,840,831,903,847,2022.0,17.570692,-3.996166
+Emerging Africa ,Mali,MLI,NGDPPC,"Gross domestic product per capita, current prices",National currency,Units,492268,477641,500299,527479,2022.0,17.570692,-3.996166
+Emerging Africa ,Mali,MLI,PPPEX,Implied PPP conversion rate,National currency per current international dollar,,213,213,214,210,2022.0,17.570692,-3.996166
+Emerging Africa ,Mali,MLI,NID_NGDP,Total investment,Percent of GDP,,23,17,21,15,2022.0,17.570692,-3.996166
+Emerging Africa ,Mali,MLI,PCPIPCH,"Inflation, average consumer prices",Percent change,,-3,0,4,10,2022.0,17.570692,-3.996166
+Emerging Africa ,Mali,MLI,LP,Population,Persons,Millions,21,21,22,23,2022.0,17.570692,-3.996166
+Emerging Africa ,Lesotho,LSO,NGDPPC,"Gross domestic product per capita, current prices",National currency,Units,17143,16931,18105,19794,2016.0,-29.609988,28.233608
+Emerging Africa ,Lesotho,LSO,NGDPDPC,"Gross domestic product per capita, current prices",U.S. dollars,Units,1159,1035,1219,1166,2016.0,-29.609988,28.233608
+Emerging Africa ,Lesotho,LSO,PPPEX,Implied PPP conversion rate,National currency per current international dollar,,6,6,6,6,2021.0,-29.609988,28.233608
+Emerging Africa ,Lesotho,LSO,NID_NGDP,Total investment,Percent of GDP,,25,28,23,23,2021.0,-29.609988,28.233608
+Emerging Africa ,Lesotho,LSO,PCPIPCH,"Inflation, average consumer prices",Percent change,,5,5,6,8,2021.0,-29.609988,28.233608
+Emerging Africa ,Lesotho,LSO,LP,Population,Persons,Millions,2,2,2,2,2016.0,-29.609988,28.233608
+Emerging Africa ,Liberia,LBR,NGDPPC,"Gross domestic product per capita, current prices",National currency,Units,624,600,677,749,2020.0,6.428055,-9.429499
+Emerging Africa ,Liberia,LBR,NGDPDPC,"Gross domestic product per capita, current prices",U.S. dollars,Units,624,600,677,749,2020.0,6.428055,-9.429499
+Emerging Africa ,Liberia,LBR,PPPEX,Implied PPP conversion rate,National currency per current international dollar,,0,0,0,0,2021.0,6.428055,-9.429499
+Emerging Africa ,Liberia,LBR,NID_NGDP,Total investment,Percent of GDP,,0,0,0,0,,6.428055,-9.429499
+Emerging Africa ,Liberia,LBR,PCPIPCH,"Inflation, average consumer prices",Percent change,,27,17,8,8,2021.0,6.428055,-9.429499
+Emerging Africa ,Liberia,LBR,LP,Population,Persons,Millions,5,5,5,5,2020.0,6.428055,-9.429499
+Emerging Africa ,Malawi,MWI,NGDPPC,"Gross domestic product per capita, current prices",National currency,Units,405143,422331,464571,534154,2016.0,-13.254308,34.301525
+Emerging Africa ,Malawi,MWI,NGDPDPC,"Gross domestic product per capita, current prices",U.S. dollars,Units,544,568,581,567,2016.0,-13.254308,34.301525
+Emerging Africa ,Malawi,MWI,PPPEX,Implied PPP conversion rate,National currency per current international dollar,,275,289,299,328,2022.0,-13.254308,34.301525
+Emerging Africa ,Malawi,MWI,NID_NGDP,Total investment,Percent of GDP,,8,8,9,13,2022.0,-13.254308,34.301525
+Emerging Africa ,Malawi,MWI,PCPIPCH,"Inflation, average consumer prices",Percent change,,9,9,9,21,2022.0,-13.254308,34.301525
+Emerging Africa ,Malawi,MWI,LP,Population,Persons,Millions,20,21,21,22,2016.0,-13.254308,34.301525
+Emerging Africa ,Mauritius,MUS,NGDPPC,"Gross domestic product per capita, current prices",National currency,Units,404677,354333,378575,451859,2021.0,-20.348404,57.552152
+Emerging Africa ,Mauritius,MUS,NGDPDPC,"Gross domestic product per capita, current prices",U.S. dollars,Units,11408,9005,9080,10227,2021.0,-20.348404,57.552152
+Emerging Africa ,Mauritius,MUS,PPPEX,Implied PPP conversion rate,National currency per current international dollar,,16,17,16,17,2022.0,-20.348404,57.552152
+Emerging Africa ,Mauritius,MUS,NID_NGDP,Total investment,Percent of GDP,,19,18,20,20,2022.0,-20.348404,57.552152
+Emerging Africa ,Mauritius,MUS,PCPIPCH,"Inflation, average consumer prices",Percent change,,0,3,4,11,2022.0,-20.348404,57.552152
+Emerging Africa ,Mauritius,MUS,LP,Population,Persons,Millions,1,1,1,1,2021.0,-20.348404,57.552152
+Emerging Africa ,Namibia,NAM,NGDPPC,"Gross domestic product per capita, current prices",National currency,Units,73695,69572,72127,79431,2022.0,-22.95764,18.49041
+Emerging Africa ,Namibia,NAM,NGDPDPC,"Gross domestic product per capita, current prices",U.S. dollars,Units,5099,4226,4879,4854,2022.0,-22.95764,18.49041
+Emerging Africa ,Namibia,NAM,PPPEX,Implied PPP conversion rate,National currency per current international dollar,,7,7,7,7,2022.0,-22.95764,18.49041
+Emerging Africa ,Namibia,NAM,NID_NGDP,Total investment,Percent of GDP,,13,12,14,13,2022.0,-22.95764,18.49041
+Emerging Africa ,Namibia,NAM,PCPIPCH,"Inflation, average consumer prices",Percent change,,4,2,4,6,2022.0,-22.95764,18.49041
+Emerging Africa ,Namibia,NAM,LP,Population,Persons,Millions,2,3,3,3,2022.0,-22.95764,18.49041
+Emerging Africa ,Niger,NER,NGDPPC,"Gross domestic product per capita, current prices",National currency,Units,324653,326809,329108,368624,2009.0,17.607789,8.081666
+Emerging Africa ,Niger,NER,NGDPDPC,"Gross domestic product per capita, current prices",U.S. dollars,Units,554,569,594,592,2009.0,17.607789,8.081666
+Emerging Africa ,Niger,NER,PPPEX,Implied PPP conversion rate,National currency per current international dollar,,254,253,250,243,2021.0,17.607789,8.081666
+Emerging Africa ,Niger,NER,NID_NGDP,Total investment,Percent of GDP,,30,31,32,31,2021.0,17.607789,8.081666
+Emerging Africa ,Niger,NER,PCPIPCH,"Inflation, average consumer prices",Percent change,,-3,3,4,4,2022.0,17.607789,8.081666
+Emerging Africa ,Niger,NER,LP,Population,Persons,Millions,23,24,25,26,2009.0,17.607789,8.081666
+Emerging Africa ,Senegal,SEN,PPPEX,Implied PPP conversion rate,National currency per current international dollar,,240,240,234,237,2021.0,14.497401,-14.452362
+Emerging Africa ,Senegal,SEN,NGDPPC,"Gross domestic product per capita, current prices",National currency,Units,841464,842156,888637,976921,2020.0,14.497401,-14.452362
+Emerging Africa ,Senegal,SEN,NGDPDPC,"Gross domestic product per capita, current prices",U.S. dollars,Units,1436,1465,1603,1570,2020.0,14.497401,-14.452362
+Emerging Africa ,Senegal,SEN,NID_NGDP,Total investment,Percent of GDP,,32,35,35,47,2021.0,14.497401,-14.452362
+Emerging Africa ,Senegal,SEN,PCPIPCH,"Inflation, average consumer prices",Percent change,,1,3,2,10,2021.0,14.497401,-14.452362
+Emerging Africa ,Senegal,SEN,LP,Population,Persons,Millions,16,17,17,18,2020.0,14.497401,-14.452362
+Emerging Africa ,Tanzania,TZA,NGDPDPC,"Gross domestic product per capita, current prices",U.S. dollars,Units,1078,1130,1171,1253,2012.0,-6.369028,34.888822
+Emerging Africa ,Tanzania,TZA,NGDPPC,"Gross domestic product per capita, current prices",National currency,Units,2479327,2606268,2704278,2901039,2012.0,-6.369028,34.888822
+Emerging Africa ,Tanzania,TZA,PPPEX,Implied PPP conversion rate,National currency per current international dollar,,873,890,867,855,2021.0,-6.369028,34.888822
+Emerging Africa ,Tanzania,TZA,NID_NGDP,Total investment,Percent of GDP,,40,39,40,37,2021.0,-6.369028,34.888822
+Emerging Africa ,Tanzania,TZA,PCPIPCH,"Inflation, average consumer prices",Percent change,,3,3,4,4,2022.0,-6.369028,34.888822
+Emerging Africa ,Tanzania,TZA,LP,Population,Persons,Millions,56,58,60,62,2012.0,-6.369028,34.888822
+Emerging Africa ,Nigeria,NGA,NGDPPC,"Gross domestic product per capita, current prices",National currency,Units,724703,748289,832898,933646,2012.0,9.081999,8.675277
+Emerging Africa ,Nigeria,NGA,NGDPDPC,"Gross domestic product per capita, current prices",U.S. dollars,Units,2230,2083,2088,2202,2012.0,9.081999,8.675277
+Emerging Africa ,Nigeria,NGA,PPPEX,Implied PPP conversion rate,National currency per current international dollar,,135,144,152,158,2022.0,9.081999,8.675277
+Emerging Africa ,Nigeria,NGA,NID_NGDP,Total investment,Percent of GDP,,25,27,27,20,2022.0,9.081999,8.675277
+Emerging Africa ,Nigeria,NGA,PCPIPCH,"Inflation, average consumer prices",Percent change,,11,13,17,19,2022.0,9.081999,8.675277
+Emerging Africa ,Nigeria,NGA,LP,Population,Persons,Millions,201,206,211,217,2012.0,9.081999,8.675277
+Emerging Africa ,Rwanda,RWA,NGDPPC,"Gross domestic product per capita, current prices",National currency,Units,751956,757791,843640,1035452,2012.0,-1.940278,29.873888
+Emerging Africa ,Rwanda,RWA,NGDPDPC,"Gross domestic product per capita, current prices",U.S. dollars,Units,836,803,853,1005,2012.0,-1.940278,29.873888
+Emerging Africa ,Rwanda,RWA,PPPEX,Implied PPP conversion rate,National currency per current international dollar,,317,334,329,357,2021.0,-1.940278,29.873888
+Emerging Africa ,Rwanda,RWA,NID_NGDP,Total investment,Percent of GDP,,23,25,26,24,2021.0,-1.940278,29.873888
+Emerging Africa ,Rwanda,RWA,PCPIPCH,"Inflation, average consumer prices",Percent change,,2,8,1,14,2021.0,-1.940278,29.873888
+Emerging Africa ,Rwanda,RWA,LP,Population,Persons,Millions,12,13,13,13,2012.0,-1.940278,29.873888
+Emerging Africa ,South Africa,ZAF,LP,Population,Persons,Millions,59,60,60,61,2022.0,-30.559482,22.937506
+Emerging Africa ,South Africa,ZAF,NGDPPC,"Gross domestic product per capita, current prices",National currency,Units,95707,93388,103234,109375,2022.0,-30.559482,22.937506
+Emerging Africa ,South Africa,ZAF,NGDPDPC,"Gross domestic product per capita, current prices",U.S. dollars,Units,6623,5672,6984,6684,2022.0,-30.559482,22.937506
+Emerging Africa ,South Africa,ZAF,PPPEX,Implied PPP conversion rate,National currency per current international dollar,,7,7,7,7,2022.0,-30.559482,22.937506
+Emerging Africa ,South Africa,ZAF,NID_NGDP,Total investment,Percent of GDP,,16,13,13,15,2022.0,-30.559482,22.937506
+Emerging Africa ,South Africa,ZAF,PCPIPCH,"Inflation, average consumer prices",Percent change,,4,3,5,7,2022.0,-30.559482,22.937506
+Emerging Africa ,Zimbabwe,ZWE,NID_NGDP,Total investment,Percent of GDP,,0,0,0,0,,-19.015438,29.154857
+Emerging Africa ,Zimbabwe,ZWE,NGDPPC,"Gross domestic product per capita, current prices",National currency,Units,14241,90863,205756,777191,2017.0,-19.015438,29.154857
+Emerging Africa ,Zimbabwe,ZWE,NGDPDPC,"Gross domestic product per capita, current prices",U.S. dollars,Units,1747,1771,2323,1991,2017.0,-19.015438,29.154857
+Emerging Africa ,Zimbabwe,ZWE,PPPEX,Implied PPP conversion rate,National currency per current international dollar,,6,43,88,299,2022.0,-19.015438,29.154857
+Emerging Africa ,Zimbabwe,ZWE,PCPIPCH,"Inflation, average consumer prices",Percent change,,255,557,99,193,2022.0,-19.015438,29.154857
+Emerging Africa ,Zimbabwe,ZWE,LP,Population,Persons,Millions,15,15,15,16,2017.0,-19.015438,29.154857
+Emerging Africa ,Seychelles,SYC,NGDPPC,"Gross domestic product per capita, current prices",National currency,Units,271934,249908,258521,285209,2015.0,-4.679574,55.491977
+Emerging Africa ,Seychelles,SYC,NGDPDPC,"Gross domestic product per capita, current prices",U.S. dollars,Units,19362,14199,15306,19983,2015.0,-4.679574,55.491977
+Emerging Africa ,Seychelles,SYC,PPPEX,Implied PPP conversion rate,National currency per current international dollar,,8,8,8,7,2021.0,-4.679574,55.491977
+Emerging Africa ,Seychelles,SYC,NID_NGDP,Total investment,Percent of GDP,,27,22,25,23,2021.0,-4.679574,55.491977
+Emerging Africa ,Seychelles,SYC,PCPIPCH,"Inflation, average consumer prices",Percent change,,2,1,10,3,2021.0,-4.679574,55.491977
+Emerging Africa ,Seychelles,SYC,LP,Population,Persons,Millions,0,0,0,0,2015.0,-4.679574,55.491977
+Emerging Africa ,Sierra Leone,SLE,NGDPPC,"Gross domestic product per capita, current prices",National currency,Units,4701127,5006663,5448679,6739533,2021.0,8.460555,-11.779889
+Emerging Africa ,Sierra Leone,SLE,NGDPDPC,"Gross domestic product per capita, current prices",U.S. dollars,Units,521,509,509,480,2021.0,8.460555,-11.779889
+Emerging Africa ,Sierra Leone,SLE,PPPEX,Implied PPP conversion rate,National currency per current international dollar,,2645,2896,2957,3354,2021.0,8.460555,-11.779889
+Emerging Africa ,Sierra Leone,SLE,NID_NGDP,Total investment,Percent of GDP,,13,12,11,12,2021.0,8.460555,-11.779889
+Emerging Africa ,Sierra Leone,SLE,PCPIPCH,"Inflation, average consumer prices",Percent change,,15,13,12,27,2022.0,8.460555,-11.779889
+Emerging Africa ,Sierra Leone,SLE,LP,Population,Persons,Millions,8,8,8,8,2021.0,8.460555,-11.779889
+Emerging Africa ,Togo,TGO,NGDPPC,"Gross domestic product per capita, current prices",National currency,Units,497031,503779,534467,572364,2021.0,8.619543,0.824782
+Emerging Africa ,Togo,TGO,NGDPDPC,"Gross domestic product per capita, current prices",U.S. dollars,Units,848,877,964,920,2021.0,8.619543,0.824782
+Emerging Africa ,Togo,TGO,PPPEX,Implied PPP conversion rate,National currency per current international dollar,,231,232,228,221,2022.0,8.619543,0.824782
+Emerging Africa ,Togo,TGO,NID_NGDP,Total investment,Percent of GDP,,19,21,20,24,2022.0,8.619543,0.824782
+Emerging Africa ,Togo,TGO,PCPIPCH,"Inflation, average consumer prices",Percent change,,1,2,5,8,2022.0,8.619543,0.824782
+Emerging Africa ,Togo,TGO,LP,Population,Persons,Millions,8,8,9,9,2021.0,8.619543,0.824782
+Emerging Africa ,Zambia,ZMB,NGDPPC,"Gross domestic product per capita, current prices",National currency,Units,16346,17552,22768,25202,2019.0,-13.133897,27.849332
+Emerging Africa ,Zambia,ZMB,NGDPDPC,"Gross domestic product per capita, current prices",U.S. dollars,Units,1268,957,1137,1486,2019.0,-13.133897,27.849332
+Emerging Africa ,Zambia,ZMB,PPPEX,Implied PPP conversion rate,National currency per current international dollar,,5,5,6,6,2021.0,-13.133897,27.849332
+Emerging Africa ,Zambia,ZMB,NID_NGDP,Total investment,Percent of GDP,,39,32,28,32,2021.0,-13.133897,27.849332
+Emerging Africa ,Zambia,ZMB,PCPIPCH,"Inflation, average consumer prices",Percent change,,9,16,22,11,2021.0,-13.133897,27.849332
+Emerging Africa ,Zambia,ZMB,LP,Population,Persons,Millions,18,19,19,20,2019.0,-13.133897,27.849332
