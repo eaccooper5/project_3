@@ -1,0 +1,87 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leaflet Map</title>
+    <!-- Add Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <!-- Add Leaflet JavaScript -->
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <!-- Add JQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <!-- Add custom CSS -->
+    <style>
+        body, html, #map {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+        .marker-icon {
+            width: 30px;
+            height: 30px;
+            background-size: contain;
+        }
+    </style>
+</head>
+<body>
+    <!-- Your map container -->
+    <div id="map"></div>
+
+    <script>
+        // Function to create map
+        function createMap() {
+            // Initialize the map
+            var map = L.map('map').setView([0, 0], 2);
+
+            // Add a tile layer from OpenStreetMap
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+            }).addTo(map);
+
+            // Load GeoJSON data
+            var geojson_data = {"type": "FeatureCollection", "features": [{"id": "32", "type": "Feature", "properties": {"Country Group": "Emerging Asia", "Country": "Bangladesh", "Subject Descriptor": "Gross domestic product, current prices", "2019": 351, "2020": 374, "2021": 416, "2022": 460, "FY": "2022", "latitude": 23.684994, "longitude": 90.356331}, "geometry": {"type": "Point", "coordinates": [90.356331, 23.684994]}}, {"id": "39", "type": "Feature", "properties": {"Country Group": "Emerging Asia", "Country": "Kiribati", "Subject Descriptor": "Gross domestic product, current prices", "2019": 0, "2020": 0, "2021": 0, "2022": 0, "FY": "2021", "latitude": -3.370417, "longitude": -168.734039}, "geometry": {"type": "Point", "coordinates": [-168.734039, -3.370417]}}, {"id": "45", "type": "Feature", "properties": {"Country Group": "Emerging Asia", "Country": "Samoa", "Subject Descriptor": "Gross domestic product, current prices", "2019": 1, "2020": 1, "2021": 1, "2022": 1, "FY": "2022", "latitude": -13.759029, "longitude": -172.104629}, "geometry": {"type": "Point", "coordinates": [-172.104629, -13.759029]}}, {"id": "62", "type": "Feature", "properties": {"Country Group": "Emerging Asia", "Country": "Papua New Guinea", "Subject Descriptor": "Gross domestic product, current prices", "2019": 25, "2020": 24, "2021": 26, "2022": 32, "FY": "2020", "latitude": -6.314993, "longitude": 143.95555}, "geometry": {"type": "Point", "coordinates": [143.95555, -6.314993]}}, {"id": "68", "type": "Feature", "properties": {"Country Group": "Emerging Asia", "Country": "Tonga", "Subject Descriptor": "Gross domestic product, current prices", "2019": 1, "2020": 0, "2021": 0, "2022": 0, "FY": "2022", "latitude": -21.178986, "longitude": -175.198242}, "geometry": {"type": "Point", "coordinates": [-175.198242, -21.178986]}}, {"id": "80", "type": "Feature", "properties": {"Country Group": "Emerging Asia", "Country": "Tuvalu", "Subject Descriptor": "Gross domestic product, current prices", "2019": 0, "2020": 0, "2021": 0, "2022": 0, "FY": "2021", "latitude": -7.109535, "longitude": 177.64933}, "geometry": {"type": "Point", "coordinates": [177.64933, -7.109535]}}, {"id": "674", "type": "Feature", "properties": {"Country Group": "Emerging Asia", "Country": "India", "Subject Descriptor": "Gross domestic product, current prices", "2019": 2836, "2020": 2672, "2021": 3150, "2022": 3390, "FY": "2023", "latitude": 20.593684, "longitude": 78.96288}, "geometry": {"type": "Point", "coordinates": [78.96288, 20.593684]}}, {"id": "691", "type": "Feature", "properties": {"Country Group": "Emerging Asia", "Country": "Bhutan", "Subject Descriptor": "Gross domestic product, current prices", "2019": 2, "2020": 2, "2021": 2, "2022": 3, "FY": "2021", "latitude": 27.514162, "longitude": 90.433601}, "geometry": {"type": "Point", "coordinates": [90.433601, 27.514162]}}, {"id": "697", "type": "Feature", "properties": {"Country Group": "Emerging Asia", "Country": "Cambodia", "Subject Descriptor": "Gross domestic product, current prices", "2019": 27, "2020": 26, "2021": 27, "2022": 29, "FY": "2022", "latitude": 12.565679, "longitude": 104.990963}, "geometry": {"type": "Point", "coordinates": [104.990963, 12.565679]}}, {"id": "703", "type": "Feature", "properties": {"Country Group": "Emerging Asia", "Country": "China", "Subject Descriptor": "Gross domestic product, current prices", "2019": 14341, "2020": 14863, "2021": 17759, "2022": 17886, "FY": "2022", "latitude": 35.86166, "longitude": 104.195397}, "geometry": {"type": "Point", "coordinates": [104.195397, 35.86166]}}, {"id": "709", "type": "Feature", "properties": {"Country Group": "Emerging Asia", "Country": "Fiji", "Subject Descriptor": "Gross domestic product, current prices", "2019": 5, "2020": 4, "2021": 4, "2022": 5, "FY": "2022", "latitude": -16.578193, "longitude": 179.414413}, "geometry": {"type": "Point", "coordinates": [179.414413, -16.578193]}}, {"id": "715", "type": "Feature", "properties": {"Country Group": "Emerging Asia", "Country": "Indonesia", "Subject Descriptor": "Gross domestic product, current prices", "2019": 1119, "2020": 1063, "2021": 1188, "2022": 1319, "FY": "2022", "latitude": -0.789275, "longitude": 113.921327}, "geometry": {"type": "Point", "coordinates": [113.921327, -0.789275]}}, {"id": "724", "type": "Feature", "properties": {"Country Group": "Emerging Asia", "Country": "Timor-Leste", "Subject Descriptor": "Gross domestic product, current prices", "2019": 2, "2020": 2, "2021": 4, "2022": 5, "FY": "2021", "latitude": -8.874217, "longitude": 125.727539}, "geometry": {"type": "Point", "coordinates": [125.727539, -8.874217]}}, {"id": "727", "type": "Feature", "properties": {"Country Group": "Emerging Asia", "Country": "Malaysia", "Subject Descriptor": "Gross domestic product, current prices", "2019": 365, "2020": 337, "2021": 374, "2022": 407, "FY": "2022", "latitude": 4.210484, "longitude": 101.975766}, "geometry": {"type": "Point", "coordinates": [101.975766, 4.210484]}}, {"id": "733", "type": "Feature", "properties": {"Country Group": "Emerging Asia", "Country": "Maldives", "Subject Descriptor": "Gross domestic product, current prices", "2019": 6, "2020": 4, "2021": 5, "2022": 6, "FY": "2022", "latitude": 3.202778, "longitude": 73.22068}, "geometry": {"type": "Point", "coordinates": [73.22068, 3.202778]}}, {"id": "739", "type": "Feature", "properties": {"Country Group": "Emerging Asia", "Country": "Marshall Islands", "Subject Descriptor": "Gross domestic product, current prices", "2019": 0, "2020": 0, "2021": 0, "2022": 0, "FY": "2022", "latitude": 7.131474, "longitude": 171.184478}, "geometry": {"type": "Point", "coordinates": [171.184478, 7.131474]}}, {"id": "746", "type": "Feature", "properties": {"Country Group": "Emerging Asia", "Country": "Nauru", "Subject Descriptor": "Gross domestic product, current prices", "2019": 0, "2020": 0, "2021": 0, "2022": 0, "FY": "2020", "latitude": -0.522778, "longitude": 166.931503}, "geometry": {"type": "Point", "coordinates": [166.931503, -0.522778]}}, {"id": "751", "type": "Feature", "properties": {"Country Group": "Emerging Asia", "Country": "Micronesia", "Subject Descriptor": "Gross domestic product, current prices", "2019": 0, "2020": 0, "2021": 0, "2022": 0, "FY": "2018", "latitude": 7.425554, "longitude": 150.550812}, "geometry": {"type": "Point", "coordinates": [150.550812, 7.425554]}}, {"id": "757", "type": "Feature", "properties": {"Country Group": "Emerging Asia", "Country": "Mongolia", "Subject Descriptor": "Gross domestic product, current prices", "2019": 14, "2020": 13, "2021": 15, "2022": 17, "FY": "2022", "latitude": 46.862496, "longitude": 103.846656}, "geometry": {"type": "Point", "coordinates": [103.846656, 46.862496]}}, {"id": "763", "type": "Feature", "properties": {"Country Group": "Emerging Asia", "Country": "Nepal", "Subject Descriptor": "Gross domestic product, current prices", "2019": 34, "2020": 33, "2021": 37, "2022": 41, "FY": "2023", "latitude": 28.394857, "longitude": 84.124008}, "geometry": {"type": "Point", "coordinates": [84.124008, 28.394857]}}, {"id": "769", "type": "Feature", "properties": {"Country Group": "Emerging Asia", "Country": "Palau", "Subject Descriptor": "Gross domestic product, current prices", "2019": 0, "2020": 0, "2021": 0, "2022": 0, "FY": "2022", "latitude": 7.51498, "longitude": 134.58252}, "geometry": {"type": "Point", "coordinates": [134.58252, 7.51498]}}, {"id": "775", "type": "Feature", "properties": {"Country Group": "Emerging Asia", "Country": "Philippines", "Subject Descriptor": "Gross domestic product, current prices", "2019": 377, "2020": 362, "2021": 394, "2022": 404, "FY": "2022", "latitude": 12.879721, "longitude": 121.774017}, "geometry": {"type": "Point", "coordinates": [121.774017, 12.879721]}}, {"id": "781", "type": "Feature", "properties": {"Country Group": "Emerging Asia", "Country": "Solomon Islands", "Subject Descriptor": "Gross domestic product, current prices", "2019": 2, "2020": 2, "2021": 2, "2022": 2, "FY": "2020", "latitude": -9.64571, "longitude": 160.156194}, "geometry": {"type": "Point", "coordinates": [160.156194, -9.64571]}}, {"id": "787", "type": "Feature", "properties": {"Country Group": "Emerging Asia", "Country": "Sri Lanka", "Subject Descriptor": "Gross domestic product, current prices", "2019": 89, "2020": 84, "2021": 89, "2022": 75, "FY": "2021", "latitude": 7.873054, "longitude": 80.771797}, "geometry": {"type": "Point", "coordinates": [80.771797, 7.873054]}}, {"id": "793", "type": "Feature", "properties": {"Country Group": "Emerging Asia", "Country": "Thailand", "Subject Descriptor": "Gross domestic product, current prices", "2019": 544, "2020": 500, "2021": 506, "2022": 495, "FY": "2022", "latitude": 15.870032, "longitude": 100.992541}, "geometry": {"type": "Point", "coordinates": [100.992541, 15.870032]}}, {"id": "799", "type": "Feature", "properties": {"Country Group": "Emerging Asia", "Country": "Vanuatu", "Subject Descriptor": "Gross domestic product, current prices", "2019": 1, "2020": 1, "2021": 1, "2022": 1, "FY": "2020", "latitude": -15.376706, "longitude": 166.959158}, "geometry": {"type": "Point", "coordinates": [166.959158, -15.376706]}}, {"id": "805", "type": "Feature", "properties": {"Country Group": "Emerging Asia", "Country": "Vietnam", "Subject Descriptor": "Gross domestic product, current prices", "2019": 332, "2020": 346, "2021": 370, "2022": 406, "FY": "2022", "latitude": 14.058324, "longitude": 108.277199}, "geometry": {"type": "Point", "coordinates": [108.277199, 14.058324]}}]};
+
+            // Loop through each feature in the GeoJSON data
+            geojson_data.features.forEach(function(feature) {
+                // Extract properties
+                var properties = feature.properties;
+                var country = properties.Country;
+                var latitude = properties.latitude;
+                var longitude = properties.longitude;
+                
+                // Extract data for 2022
+                var inflation2022 = properties['2021'];
+                var population2022 = properties['2021'];
+                
+                // Inflation marker
+                var inflationIcon = L.icon({
+                    iconUrl: 'https://leafletjs.com/examples/custom-icons/leaf-red.png',
+                    iconSize: [30, 30]
+                });
+                var inflationMarker = L.marker([latitude, longitude], { icon: inflationIcon }).addTo(map);
+
+                // Population marker
+                var populationIcon = L.icon({
+                    iconUrl: 'https://leafletjs.com/examples/custom-icons/leaf-green.png',
+                    iconSize: [30, 30]
+                });
+                var populationMarker = L.marker([latitude, longitude], { icon: populationIcon }).addTo(map);
+
+                
+                // Popup for Inflation marker
+                inflationMarker.bindPopup("<b>Country:</b> " + country + "<br><b>Inflation 2021:</b> " + inflation2022);
+
+                // Popup for Population marker
+                populationMarker.bindPopup("<b>Country:</b> " + country + "<br><b>Population 2021:</b> " + population2022);
+            });
+        }
+
+        // Call the createMap function when the page is loaded
+        $(document).ready(function() {
+            createMap();
+        });
+    </script>
+</body>
+</html>
